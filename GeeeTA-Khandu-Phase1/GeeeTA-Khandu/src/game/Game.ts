@@ -4,7 +4,7 @@ import { World } from '../world/World';
 import { Player } from '../player/Player';
 import { Vehicle } from '../vehicles/Vehicle';
 import { NPCs } from '../npcs/NPCs';
-import { Temples, Temple } from '../temples/Temples';
+import { Temples, type Temple } from '../temples/Temples';
 import { Missions } from '../missions/Missions';
 import { UI } from '../ui/UI';
 
